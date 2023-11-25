@@ -1,4 +1,4 @@
-//´óĞ¡Ğ´×ª»»
+//å¤§å°å†™è½¬æ¢
 #include<stdio.h>
 main()
 {
@@ -16,5 +16,5 @@ main()
         putchar(ch);
     }
     else
-    printf("ÊäÈëÓĞÎó\n");
+    printf("ÃŠÃ¤ÃˆÃ«Ã“ÃÃÃ³\n");
 }
