@@ -16,5 +16,5 @@ main()
         putchar(ch);
     }
     else
-    printf("ÊäÈëÓÐÎó\n");
+    printf("输入有误\n");
 }
