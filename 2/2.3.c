@@ -1,4 +1,4 @@
-//ÇóËùÓÐË®ÏÉ»¨Êý
+//æ±‚æ‰€æœ‰æ°´ä»™èŠ±æ•°
 #include<stdio.h>
 main()
 {
