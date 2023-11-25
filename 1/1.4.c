@@ -1,0 +1,20 @@
+//大小写转换
+#include<stdio.h>
+main()
+{
+    char ch;
+    ch=getchar();
+    if(ch>'a'&&ch<'z')
+    {
+        ch=ch-32;
+        putchar(ch);
+    }
+    else
+    if(ch>'A'&&ch<'Z')
+    {
+        ch=ch+32;
+        putchar(ch);
+    }
+    else
+    printf("输入有误\n");
+}
