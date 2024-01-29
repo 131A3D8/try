@@ -16,12 +16,13 @@ int main()
     printf("%d ",arr[i]);
     return 0;
 } */
+//函数写法
 #include<stdio.h>
 #define N 10
 void fun(int arr[N]);
 int main()
 {
-    int arr[N],i,t;
+    int arr[N],i;
     for(i=0;i<N;i++)
     scanf("%d",&arr[i]);
     fun(arr);
